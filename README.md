@@ -89,7 +89,7 @@ If some source files cannot be redistributed publicly, note that clearly in the 
 
 A full research paper with literature review, methodology, results, discussion, and references should be included in the repository as a PDF. That document provides the complete academic framing for the project and complements the code, figures, and model outputs presented here.[4][10]
 
-[Read the full paper]()
+[**Read the full paper:** Democratic Voter Shifts in Pennsylvania: Turnout vs. Persuation, and the Roadblocks of Testing Text-Based Explanations at the County-Level](https://github.com/MutchkaJS/Democratic_Voter_Shift_PA/blob/main/MUTCHKA.JS.DemocraticVoterShift_PA.pdf)
 
 
 ## Limitations
