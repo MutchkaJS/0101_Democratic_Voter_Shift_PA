@@ -56,6 +56,7 @@ In addition to descriptive mapping and ranked county comparisons, the project ev
 ```text
 democratic-voter-shift/
 ├── README.md
+├── environment.yml
 ├── requirements.txt
 ├── data/
 │   ├── raw/
